@@ -1,0 +1,16 @@
+替换顺序：
+1. 用新的 index.html 替换原 index.html
+2. 把 pricing.html 和 contact.html 放到网站根目录
+3. 把 custom.css 放到 assets/css/
+4. 把 site.js 放到 assets/js/
+5. 浏览器打开 index.html 查看效果
+
+需要替换的信息：
+- 首页 images/pic10.jpg：换成个人主形象照片
+- 首页 images/pic09.jpg：换成教学或自然个人照
+- 课程图片 pic01.jpg、pic02.jpg、pic03.jpg
+- contact.html 中 YOUR_LINE_ID、YOUR_TIKTOK、YOUR_EMAIL
+- pricing.html 中的具体价格
+
+注意：联系表单目前只是页面样式，不能真正发送。后续可连接 Formspree、Netlify Forms 或自己的后台。
+保留了 HTML5 UP 的设计署名，以符合模板许可要求。

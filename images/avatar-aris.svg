@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">Animated portrait avatar of Aris</title>
+  <rect width="160" height="160" rx="80" fill="#f3ddcf"/>
+  <circle cx="80" cy="82" r="50" fill="#f7c7a3"/>
+  <path d="M31 73c3-37 25-57 54-57 24 0 45 16 49 44-15-13-33-16-54-12-18 3-33 11-49 25Z" fill="#2c2522"/>
+  <circle cx="62" cy="82" r="5" fill="#2b2420"/>
+  <circle cx="98" cy="82" r="5" fill="#2b2420"/>
+  <path d="M64 109c11 10 25 10 36 0" fill="none" stroke="#9d5148" stroke-width="7" stroke-linecap="round"/>
+  <path d="M32 154c9-31 27-47 48-47s39 16 48 47" fill="#a8473d"/>
+</svg>

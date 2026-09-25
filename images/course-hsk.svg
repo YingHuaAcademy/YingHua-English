@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">HSK preparation materials</title>
+  <desc id="desc">A tidy study desk with HSK practice papers, pencil, and progress marks.</desc>
+  <rect width="900" height="560" fill="#f8f4ee"/>
+  <circle cx="720" cy="135" r="120" fill="#eee2d2"/>
+  <circle cx="190" cy="420" r="132" fill="#a8473d" opacity=".08"/>
+  <rect x="205" y="95" width="410" height="360" rx="28" fill="#ffffff" stroke="#d8cab9" stroke-width="5"/>
+  <rect x="255" y="145" width="190" height="20" rx="10" fill="#1d1d1f"/>
+  <rect x="255" y="188" width="300" height="12" rx="6" fill="#d4c6b3"/>
+  <rect x="255" y="222" width="255" height="12" rx="6" fill="#d4c6b3"/>
+  <rect x="255" y="274" width="44" height="44" rx="12" fill="#f2eadf" stroke="#d8cab9" stroke-width="4"/>
+  <path d="M264 296l12 13 22-27" fill="none" stroke="#a8473d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="325" y="286" width="160" height="12" rx="6" fill="#cdbda5"/>
+  <rect x="255" y="343" width="44" height="44" rx="12" fill="#f2eadf" stroke="#d8cab9" stroke-width="4"/>
+  <path d="M264 365l12 13 22-27" fill="none" stroke="#a8473d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="325" y="355" width="210" height="12" rx="6" fill="#cdbda5"/>
+  <g transform="translate(575 250) rotate(-18)">
+    <rect x="0" y="0" width="58" height="220" rx="18" fill="#1d1d1f"/>
+    <rect x="0" y="0" width="58" height="54" rx="18" fill="#a8473d"/>
+    <path d="M0 188h58l-29 54Z" fill="#d4b98e"/>
+    <path d="M20 225h18l-9 17Z" fill="#332a25"/>
+  </g>
+  <g transform="translate(640 128)">
+    <rect width="128" height="128" rx="28" fill="#a8473d"/>
+    <text x="64" y="82" fill="#fff7ed" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="700" text-anchor="middle">HSK</text>
+  </g>
+</svg>

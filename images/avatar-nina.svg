@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">Animated portrait avatar of Nina</title>
+  <rect width="160" height="160" rx="80" fill="#f5eadc"/>
+  <circle cx="80" cy="82" r="50" fill="#eebf98"/>
+  <path d="M36 70c8-35 32-55 65-45 23 7 34 27 31 53-19-19-43-26-75-16-8 3-14 5-21 8Z" fill="#2f2a27"/>
+  <circle cx="62" cy="84" r="5" fill="#2b2420"/>
+  <circle cx="98" cy="84" r="5" fill="#2b2420"/>
+  <path d="M65 110c10 8 20 8 30 0" fill="none" stroke="#8f453f" stroke-width="7" stroke-linecap="round"/>
+  <path d="M31 154c10-31 27-48 49-48s39 17 49 48" fill="#d18f70"/>
+  <path d="M42 51c20-25 50-31 82-7" fill="none" stroke="#604135" stroke-width="11" stroke-linecap="round"/>
+</svg>
